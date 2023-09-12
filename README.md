@@ -1,1 +1,1 @@
-# Miniproject4
+This project is based on drums and kits. WHen we press the icons, we hear the sound of the instruments. U can start recording for ur own tunes and create a song using this websites consisting of musical instruments.
